@@ -1,0 +1,48 @@
+--Readme document for Tyler Mendel (60286049), --
+
+1. Core Requirements Completed
+
+HTML
+- Two Pages (Overview of Covid and Covid Recommendations)
+- Visualizations along with textual informations
+- Appropriate navigation between pages
+- Appropriate Headings and text
+
+CSS 
+- Modified margins and padding for readability
+- Modifed colors
+- Custom fonts from Google fonts
+
+JavaScript
+- Tableau API 
+
+Tableau Content
+- Data compiled by John Hopkins (Changed)
+  Comment: We used a different than the project plan provided. The new source still gets data from John Hopkins, but allows for much easier updates to the data (Following the goal of the bonus requirement, additional details in that section).
+- Data displayed in graph and table formats with filters for country, month, deaths, and total number.
+- Two visualization stories, each containing multiple graphs/tables along with textual discriptions. S
+  Comment: There are multiple graphs put together to make a single visualization. While there are 4 total visualizations, there are over twice as many graphs used to create them.
+
+Responsiveness
+- Designed with accessibility in mind, using semantic elements and descriptive alt attributes
+- Will use responsive design for varying screen sizes
+
+Validity
+- HTML and CSS validated by W3C
+- Accessibility validated byh AChecker
+
+Documentation
+- Code includes comments when required
+
+Bonus Requirement (Mostly Completed)
+- While the entire process wasn't automated, the vast majority of the work required to update the visualizations was automated.
+  * Our initial expectation required manually combining two separate csv files along with other edits (removing unnecessary rows/columns and creating a new column with an algorithm over thousands of rows). Afterwards, we would save that file as an .xlsx file to be used in Tableau. We had to complete this process with every update. 
+  * Instead, we click one button to update the data then save the visuals to Tableau Online (two clicks each). 
+
+2. What online resources did you consult when completing this assignment? (list sites like StackOverflow or specific URLs for tutorials, etc.)
+https://help.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api.htm
+
+3. What classmates or other individuals did you consult as part of this assignment? What did you discuss? 
+
+
+4. Is there anything special we need to know in order to run your code?
