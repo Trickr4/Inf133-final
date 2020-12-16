@@ -1,0 +1,55 @@
+.menu {
+    background-color: #682f38;
+    display: grid;
+}
+
+.header_img {
+    width: 100%
+}
+
+.navbar {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+}
+
+.menu a {
+    color:#d4d3d3;
+    text-align: center;
+    padding: 0px 16px;
+    font-size: 30px;
+    font-family: 'EB Garamond', serif;
+}
+
+.menu a:hover {
+    background-color: #a55f70;
+    color: #2c222b;
+    text-decoration: none;
+}
+
+.story {
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+    text-decoration: none;
+    font-family: 'EB Garamond', 'serif';
+}
+
+.graph img{
+    width:80%;
+}
+
+.story p{
+    color: black;
+    font-size: 22px;
+    padding: 10px 0px 0px 0px;
+    text-decoration: none;
+}
+
+.description p{
+    color:black;
+    font-size: 19px;
+    padding:15px 95px 0px;
+    font-family: 'EB Garamond', "serif";
+    text-align: center;
+}
