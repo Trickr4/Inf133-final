@@ -29,7 +29,8 @@ Responsiveness
 
 Validity
 - HTML and CSS validated by W3C
-- Accessibility validated byh AChecker
+- Accessibility validated by AChecker
+-Contrast validated by WebAIM: Contrast Checker
 
 Documentation
 - Code includes comments when required
@@ -44,7 +45,21 @@ https://help.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api.htm
 https://www.queensu.ca/research/topics/confronting-covid-19
 https://data.world/login?next=%2Fcovid-19-data-resource-hub%2Fcovid-19-case-counts%2Fworkspace%2Ffile%3Ffilename%3DCOVID-19%2BCases.hyper
 
+Image Sources:
+Wash Hands: https://thenounproject.com/term/hand-wash/
+Social Distance: https://reverehealth.com/live-better/a-guide-to-social-distancing/
+Wear Mask: https://freeicons.io/vector-and-svg-logos-icons-16/cover-face-with-mask-icon-39299
+Cover Cough and Sneeze: https://www.betterhealth.vic.gov.au/flu
+Clean and Disinfect: https://thenounproject.com/term/cleaning/2056/
+Monitor Your Health: https://www.pinterest.com/pin/814588651331090850/
+header img: https://www.queensu.ca/research/topics/confronting-covid-19
+
 3. What classmates or other individuals did you consult as part of this assignment? What did you discuss? 
+-We did not consult anyone outside out group.
 
 
 4. Is there anything special we need to know in order to run your code?
+
+There was an error with the assessibility saying that the color contrast between the text and the background were not valid.
+However, when checked with a contrast checker, the two colors used were valid.
+Included in the validity check screenshots is a screenshot of the contrast checker called valid-colorContrast.png
